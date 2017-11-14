@@ -1,0 +1,4 @@
+SET TALK OFF
+CLEAR
+DO FORM formulario_sistema
+READ EVENTS
